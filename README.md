@@ -28,5 +28,5 @@ This project leverages **BERT (Bidirectional Encoder Representations from Transf
 
 1. **Clone the repo:**
    ```bash
-   git clone [https://github.com/your-username/IMDB-Sentiment-Classifier-with-BERT-Gradio-UI.git](https://github.com/your-username/IMDB-Sentiment-Classifier-with-BERT-Gradio-UI.git)
+   git clone [https://github.com/your-username/IMDB-Sentiment-Classifier-with-BERT-Gradio-UI.git](https://github.com/tanya9905/IMDB-Sentiment-Classifier-with-BERT-Gradio-UI.git)
    cd IMDB-Sentiment-Classifier-with-BERT-Gradio-UI
